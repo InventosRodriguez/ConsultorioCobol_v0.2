@@ -1,0 +1,12 @@
+Para iniciar el servidor:
+
+	-Desde pycharm:
+	-Ir al terminal de pycharm
+	-python manage.py runserver
+
+
+ó desde CMD:
+
+	-Ir a CMD
+	-Desde la carpeta donde está el proyecto: D:\InventosRodriguez\Diseno\Proyectos\23 Consultorio Cobol Django\ConultorioCobol
+	-python manage.py runserver 127.0.0.1:5000
